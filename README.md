@@ -1,6 +1,6 @@
 # Agile
  - [Scrum](https://www.linkedin.com/pulse/metodologia-scrum-uma-poderosa-ferramenta-para-gustavo-machado-/?trackingId=iHP2S%2FD5QKqgpZMeJC8bUQ%3D%3D)
- - [A Startup Enxuta](https://www.amazon.com.br/startup-enxuta-Eric-Ries/dp/8543108624)
+ - [A Startup Enxuta](http://s-inova.ucdb.br/wp-content/uploads/biblioteca/a-startup-enxuta-eric-ries-livro-completo.pdf)
  - [Learning Agile: Understanding Scrum, XP, Lean, and Kanban](https://www.amazon.com.br/Learning-Agile-Understanding-Scrum-Kanban-ebook/dp/B00PJ8YKRM/)
 
 # Agile Testing
