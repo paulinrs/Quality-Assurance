@@ -5,8 +5,7 @@
 
 # Agile Testing
 
-  - [O que é?](https://www.concretesolutions.com.br/2017/02/20/agile-testing-o-que-e/)
-    - By Elessandra
+  - [O que é?](https://www.alura.com.br/artigos/agile-testing-o-que-e-qual-papel-qa-num-time-agil?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb4lAj1NBZv7aR3OtDCODQc6OAucY3ECVlm6zSb__RLDz6lINZhLHXRoCcI0QAvD_BwE)
 
   - [Lisa Crispin](http://lisacrispin.com/)
     - Lisa Crispin é uma das referências quando falamos sobre Agile Testing, além se ser ativa na comunidade até hoje tem bastante material publicado no seu site e nas redes sociais.
