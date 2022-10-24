@@ -17,7 +17,7 @@ Seja um software, aplicativo, programa ou website, todo produto precisa ser test
 
 
 ##
-# Fundamentos do Teste de Software, Os tipos de testes.
+# Fundamentos do [Teste de Software.](https://www.testar.me/teste-de-software)
 
-Testar um Software não é uma tarefa simples, diversos [requisitos](https://www.testar.me/teste-de-software) precisam ser verificados e analisados.
+Testar um Software não é uma tarefa simples, diversos requisitos precisam ser verificados e analisados.
 
