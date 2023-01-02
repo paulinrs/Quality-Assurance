@@ -111,5 +111,6 @@ Além dos testadores existem também outros papeis associados ao teste de softwa
   
   ### Referências
   
-  Certified Tester Foundation Level Syllabus, disponível em: http://www.bstqb.org.br/
+  Certified Tester Foundation Level Syllabus, disponível em: http://www.bstqb.org.br/4
+  
   JSR-000345 Enterprise JavaBeansTM 3.2, Disponível em https://jcp.org/aboutJava/communityprocess/final/jsr345/index.html
