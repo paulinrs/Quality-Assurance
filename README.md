@@ -17,7 +17,7 @@ Seja um software, aplicativo, programa ou website, todo produto precisa ser test
 
 
 ##
-# Fundamentos do [Teste de Software.](https://www.testar.me/teste-de-software)
+# Fundamentos do Teste de Software
 
 Testar um Software não é uma tarefa simples, diversos requisitos precisam ser verificados e analisados.
 
